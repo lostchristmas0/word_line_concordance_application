@@ -1,0 +1,12 @@
+bigger: 4 
+concordance: 2 
+data: 1 4 
+file: 1 4 
+much: 4 
+processed: 2 
+program: 2 
+real: 4 
+sample: 1 
+text: 1 
+word: 2 
+your: 2 

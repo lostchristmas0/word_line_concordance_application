@@ -1,0 +1,4 @@
+This is a sample data (text) file to
+be processed by your word concordance program.
+
+The real data file is much bigger.
